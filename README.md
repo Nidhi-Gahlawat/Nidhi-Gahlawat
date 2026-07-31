@@ -12,9 +12,12 @@ I work at the intersection of backend reliability, AI workflow orchestration, an
 
 ## Impact at a Glance
 
-| 1.2M+ | 14% to 2% | 94% to 96.7% | 60+ |
-|:---:|:---:|:---:|:---:|
-| Copilot licenses enabled for multilingual presentation generation | Large-file transfer failure rate after reliability improvements | User success ratio after LLM workflow optimization | Technical articles published on backend and systems engineering |
+| Impact | Result |
+|:---|:---|
+| Multilingual presentation generation | **1.2M+ Copilot licenses enabled** |
+| Large-file transfer reliability | **Failure rate reduced from 14% to 2%** |
+| LLM workflow quality | **User success ratio increased from 94% to 96.7%** |
+| Technical writing | **60+ articles published; 9 selected by Medium's curation team** |
 
 ---
 
