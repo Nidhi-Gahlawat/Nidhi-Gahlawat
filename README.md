@@ -14,9 +14,9 @@ I work at the intersection of backend reliability, AI workflow orchestration, an
 
 | Impact | Result |
 |:---|:---|
-| Multilingual presentation generation | **1.2M+ Copilot licenses enabled** |
+| Multilingual presentation generation | **Copilot licenses enabled by unblocking translation flow** |
 | Large-file transfer reliability | **Failure rate reduced from 14% to 2%** |
-| LLM workflow quality | **User success ratio increased from 94% to 96.7%** |
+| LLM workflow quality | **User success ratio increased from by 3%** |
 | Technical writing | **60+ articles published; 9 selected by Medium's curation team** |
 
 ---
@@ -27,9 +27,9 @@ I work at the intersection of backend reliability, AI workflow orchestration, an
 
 `July 2023 - Present` · Remote, India
 
-- Led the design and development of the translation experience for the Windows desktop PowerPoint Copilot application, enabling multilingual presentation generation across more than 1.2 million Copilot licenses.
+- Led the design and development of the translation experience for the Windows desktop PowerPoint Copilot application, enabling multilingual presentation generation across more than Copilot licenses.
 - Engineered an end-to-end large-file reliability framework using Azure Blob Storage, reducing desktop data-transfer failures from 14% to 2%.
-- Improved an LLM-powered workflow's user success ratio from 94% to 96.7% through prompt refinement, output evaluation, retries, and Redis-backed caching.
+- Improved an LLM-powered workflow's user success ratio by 3% through output evaluation, retries, and Redis-backed caching.
 - Built distributed backend services for PowerPoint Copilot Agent Mode, orchestrating slide creation, formatting, and content restructuring for millions of users.
 - Developed high-throughput REST APIs for low-latency service communication and automated production telemetry dashboards used for monitoring, incident response, and root-cause analysis.
 
@@ -102,5 +102,3 @@ GitHub · VS Code · Visual Studio · Postman · Insomnia · Docker
 - Contributing focused, well-tested fixes to open-source projects
 
 ---
-
-**B.Tech in Information Technology** · Netaji Subhas University of Technology
