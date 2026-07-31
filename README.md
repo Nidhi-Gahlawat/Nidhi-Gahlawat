@@ -1,62 +1,103 @@
 # Nidhi Gahlawat
 
-Backend software engineer building reliable web systems and practical developer tools.
+### Backend and AI Systems Engineer
 
-Software Engineer at Microsoft
+Software Engineer at Microsoft building distributed services and LLM-powered product experiences for PowerPoint Copilot.
 
-Working across backend architecture, full-stack product development, and data-driven applications.
+I work at the intersection of backend reliability, AI workflow orchestration, and developer-focused product engineering. I care about systems that remain fast, observable, and dependable at real-world scale.
+
+[LinkedIn](https://www.linkedin.com/in/nidhi-gahlawat-01947818a/) · [Medium](https://medium.com/@nidhigahlawat)
 
 ---
 
-## Selected Work
+## Impact at a Glance
+
+| 1.2M+ | 14% to 2% | 94% to 96.7% | 60+ |
+|:---:|:---:|:---:|:---:|
+| Copilot licenses enabled for multilingual presentation generation | Large-file transfer failure rate after reliability improvements | User success ratio after LLM workflow optimization | Technical articles published on backend and systems engineering |
+
+---
+
+## Experience
+
+### Microsoft · Software Engineer
+
+`July 2023 - Present` · Remote, India
+
+- Led the design and development of the translation experience for the Windows desktop PowerPoint Copilot application, enabling multilingual presentation generation across more than 1.2 million Copilot licenses.
+- Engineered an end-to-end large-file reliability framework using Azure Blob Storage, reducing desktop data-transfer failures from 14% to 2%.
+- Improved an LLM-powered workflow's user success ratio from 94% to 96.7% through prompt refinement, output evaluation, retries, and Redis-backed caching.
+- Built distributed backend services for PowerPoint Copilot Agent Mode, orchestrating slide creation, formatting, and content restructuring for millions of users.
+- Developed high-throughput REST APIs for low-latency service communication and automated production telemetry dashboards used for monitoring, incident response, and root-cause analysis.
+
+### Visa · Software Development Engineer Intern
+
+`May 2022 - July 2022` · Bengaluru, India
+
+- Developed backend components in Go and strengthened REST API reliability through validation, unit testing, and systematic debugging.
+- Improved the resilience of an availability-management service using etcd for reliable, fault-tolerant database allocation.
+
+---
+
+## Independent Work
 
 ### Writing Memory
 
-A full-stack writing workspace designed to help writers develop ideas without losing context.
+A full-stack writing workspace built to help writers develop ideas without losing context.
 
 - Rich-text editing with autosave, document history, and in-place version restore
 - Semantic search and optional AI-assisted writing memory
 - Writer-controlled idea loops linked to exact source passages
 - Account authentication, email verification, tenant isolation, and rate limiting
-- Docker-based deployment with persistent SQLite storage
+- Docker deployment with persistent SQLite storage
 
-**Stack:** Next.js · React · TypeScript · TipTap · SQLite · Docker · Vitest
+**Built with:** Next.js · React · TypeScript · TipTap · SQLite · Docker · Vitest
 
 ### [Go Projects and Exercises](https://github.com/Nidhi-Gahlawat/Golang)
 
-Implementations and exercises exploring Go fundamentals, concurrency, backend patterns, and systems concepts.
+Implementations exploring Go fundamentals, concurrency, backend patterns, and systems concepts.
 
 ---
 
-## Tech Stack
+## Technical Writing
+
+I have published more than 60 articles about systems programming, C++, concurrency, compiler internals, memory management, and distributed systems. Nine were selected by Medium's curation team.
+
+Read my work on [Medium](https://medium.com/@nidhigahlawat), including deep dives such as **How Does a Compiler Work?**
+
+---
+
+## Engineering Toolkit
 
 **Languages**
 
-Go · TypeScript · JavaScript · SQL
+C++ · TypeScript · C# · Go · Python
 
-**Backend**
+**Backend and Distributed Systems**
 
-Node.js · Next.js · REST APIs · Authentication · SQLite
+Microservices · REST APIs · Node.js · Redis · etcd · Azure Blob Storage · API Integration
 
-**Frontend**
+**AI Systems**
 
-React · TipTap · HTML · CSS
+LLM Prompting · Output Evaluation · AI Workflow Orchestration · Fine-Tuning
 
-**Infrastructure and Quality**
+**Reliability and Observability**
 
-Docker · Railway · GitHub Actions · Vitest · Integration Testing · ESLint
+Telemetry · Monitoring and Dashboards · Alerting · Kusto Query Language · CI/CD · Unit and Integration Testing
+
+**Tools**
+
+GitHub · VS Code · Visual Studio · Postman · Insomnia · Docker
 
 ---
 
 ## Current Focus
 
-- Contributing well-tested fixes to open-source TypeScript projects
-- Building dependable backend systems and data workflows
-- Deepening Go and systems programming knowledge
-- Improving developer experience through focused product tooling
+- Designing reliable distributed systems and AI-backed product workflows
+- Building observable services that are straightforward to debug in production
+- Deepening Go and systems programming expertise
+- Contributing focused, well-tested fixes to open-source projects
 
 ---
 
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/nidhi-gahlawat-01947818a/) · [Medium](https://medium.com/@nidhigahlawat)
+**B.Tech in Information Technology** · Netaji Subhas University of Technology
