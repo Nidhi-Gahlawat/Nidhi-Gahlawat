@@ -1,26 +1,62 @@
-# Hi, I'm Nidhi Gahlawat
+# Nidhi Gahlawat
 
-I'm a software engineer at Microsoft focused on backend systems, web development, and practical developer tools.
+Backend software engineer building reliable web systems and practical developer tools.
 
-## What I'm working on
+Software Engineer at Microsoft
 
-- Building **Writing Memory**, a writing workspace with rich-text editing, semantic search, version history, and writer-controlled idea tracking.
-- Deepening my work in **Go** through small systems and backend exercises.
-- Contributing to open-source TypeScript projects, with an emphasis on well-tested bug fixes.
+Working across backend architecture, full-stack product development, and data-driven applications.
 
-## Technologies
+---
 
-- **Languages:** Go, TypeScript, JavaScript, SQL
-- **Backend:** Node.js, Next.js, REST APIs, authentication
-- **Frontend:** React, TipTap, HTML, CSS
-- **Data and infrastructure:** SQLite, Docker, Railway, GitHub Actions
-- **Testing:** Vitest, integration testing, ESLint
+## Selected Work
 
-## Selected work
+### Writing Memory
 
-- [Golang](https://github.com/Nidhi-Gahlawat/Golang) - Go exercises and implementations covering language fundamentals and backend concepts.
-- **Writing Memory** - A full-stack writing application built with Next.js, TipTap, SQLite, Docker, and optional AI-assisted search.
+A full-stack writing workspace designed to help writers develop ideas without losing context.
 
-## Current interests
+- Rich-text editing with autosave, document history, and in-place version restore
+- Semantic search and optional AI-assisted writing memory
+- Writer-controlled idea loops linked to exact source passages
+- Account authentication, email verification, tenant isolation, and rate limiting
+- Docker-based deployment with persistent SQLite storage
 
-Backend architecture, developer experience, reliable data workflows, and open-source collaboration.
+**Stack:** Next.js · React · TypeScript · TipTap · SQLite · Docker · Vitest
+
+### [Go Projects and Exercises](https://github.com/Nidhi-Gahlawat/Golang)
+
+Implementations and exercises exploring Go fundamentals, concurrency, backend patterns, and systems concepts.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+Go · TypeScript · JavaScript · SQL
+
+**Backend**
+
+Node.js · Next.js · REST APIs · Authentication · SQLite
+
+**Frontend**
+
+React · TipTap · HTML · CSS
+
+**Infrastructure and Quality**
+
+Docker · Railway · GitHub Actions · Vitest · Integration Testing · ESLint
+
+---
+
+## Current Focus
+
+- Contributing well-tested fixes to open-source TypeScript projects
+- Building dependable backend systems and data workflows
+- Deepening Go and systems programming knowledge
+- Improving developer experience through focused product tooling
+
+---
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/nidhi-gahlawat-01947818a/) · [Medium](https://medium.com/@nidhigahlawat)
