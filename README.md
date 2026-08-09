@@ -9,39 +9,6 @@ I work at the intersection of backend reliability, AI workflow orchestration, an
 [LinkedIn](https://www.linkedin.com/in/nidhi-gahlawat-01947818a/) · [Medium](https://medium.com/@nidhigahlawat)
 
 ---
-
-## Impact at a Glance
-
-| Impact | Result |
-|:---|:---|
-| Multilingual presentation generation | **Copilot licenses enabled by unblocking translation flow** |
-| Large-file transfer reliability | **Failure rate reduced from 14% to 2%** |
-| LLM workflow quality | **User success ratio increased from by 3%** |
-| Technical writing | **60+ articles published; 9 selected by Medium's curation team** |
-
----
-
-## Experience
-
-### Microsoft · Software Engineer
-
-`July 2023 - Present` · Remote, India
-
-- Led the design and development of the translation experience for the Windows desktop PowerPoint Copilot application, enabling multilingual presentation generation across more than Copilot licenses.
-- Engineered an end-to-end large-file reliability framework using Azure Blob Storage, reducing desktop data-transfer failures from 14% to 2%.
-- Improved an LLM-powered workflow's user success ratio by 3% through output evaluation, retries, and Redis-backed caching.
-- Built distributed backend services for PowerPoint Copilot Agent Mode, orchestrating slide creation, formatting, and content restructuring for millions of users.
-- Developed high-throughput REST APIs for low-latency service communication and automated production telemetry dashboards used for monitoring, incident response, and root-cause analysis.
-
-### Visa · Software Development Engineer Intern
-
-`May 2022 - July 2022` · Bengaluru, India
-
-- Developed backend components in Go and strengthened REST API reliability through validation, unit testing, and systematic debugging.
-- Improved the resilience of an availability-management service using etcd for reliable, fault-tolerant database allocation.
-
----
-
 ## Independent Work
 
 ### Writing Memory
